@@ -1,0 +1,12 @@
+
+PLANNING = 'Plan_'
+EXECUTION = 'Exec_'
+CARRIER = 'Plan_Carrier'
+PLANLOAD = 'Plan_Load'
+DIFF  = 'diff'
+CSVFILE = 'ETA_CSV.csv'
+JSONFILE = 'ETA_CSV.json'
+PLANINPUTVALUE = ''
+EXECINPUTVALUE = ''
+INPUT = ''
+LOADID = ''
